@@ -1,2 +1,2 @@
 # MNISTGenerator
-A project for denoising and producing ne MNIST images using autoencoders.
+A project for denoising and producing new MNIST images using autoencoders.
